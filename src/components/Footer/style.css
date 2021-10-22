@@ -1,0 +1,11 @@
+.footer{
+    box-shadow: 12px 0px 4px 0 rgba(0, 0, 0, .1);
+    height: 60px;
+    width: 100%;
+}
+
+.wrap{
+    height: 100%;
+    margin: 0px 120px 10px;;
+    position: relative;
+}
